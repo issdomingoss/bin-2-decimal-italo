@@ -2,4 +2,5 @@
 
 Test my web-page: https://bin-2-decimal-italo.vercel.app/
 
+Tecnologias cores: Javascript, ReactJS e Styled-Components
 
